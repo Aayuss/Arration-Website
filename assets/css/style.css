@@ -2718,6 +2718,14 @@ body.dark,
     width: 100%;
 }
 
+.achievement-text{
+    font-size: 50px;
+}
+
+.our-moto-text{
+    size: 100%;
+}
+
 /* ******************************
 :: 23.0 FOOTER AREA CSS
 ****************************** */
